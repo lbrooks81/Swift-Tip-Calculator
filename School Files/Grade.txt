@@ -1,0 +1,3 @@
+9.5/10
+
+(-0.5) Tapping "Confirm" when the bill amount field is empty results in the total being $-1.
